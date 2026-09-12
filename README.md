@@ -1,12 +1,17 @@
 *Hi I am Chaitanya* !!
+
 BSC CS student..
 
 Currently learning 
-C programming 
+
+C programming
+
 Post grace SQL
+
 Several other things 😅
 
 #Beyond Code
+
 Photography - Editing - Exploring 
 
 
