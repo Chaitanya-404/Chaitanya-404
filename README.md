@@ -1,4 +1,16 @@
-## Hi there 👋
+*Hi I am Chaitanya* !!
+BSC CS student..
+
+Currently learning 
+C programming 
+Post grace SQL
+Several other things 😅
+
+#Beyond Code
+Photography - Editing - Exploring 
+
+
+
 
 <!--
 **Chaitanya-404/Chaitanya-404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
